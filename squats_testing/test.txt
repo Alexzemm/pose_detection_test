@@ -1,1 +1,0 @@
-run squat_test to test
